@@ -1,0 +1,3 @@
+html{background-color:cyan;}
+.header{display: flex; background-color: gold; padding: 10px; margin: 20px;}
+.games{display: flex; background-color: lime; padding: 10px; margin: 20px; justify-content: space-evenly;}
